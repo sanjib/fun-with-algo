@@ -1,0 +1,16 @@
+{
+  "name": "fun-with-algo",
+  "version": "1.0.0",
+  "description": "Exploring various algorithms.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sanjib Ahmad <sanjib@sanjib.org>",
+  "license": "MIT",
+  "dependencies": {
+    "expect": "^27.0.6"
+  }
+}
